@@ -1,0 +1,2 @@
+INSERT INTO VOLUNTEER (id, name, email, phone) VALUES (1, 'Alice', 'alice@example.com', '9876543210');
+INSERT INTO VOLUNTEER (id, name, email, phone) VALUES (2, 'Bob', 'bob@example.com', '8765432109');
